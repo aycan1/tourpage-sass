@@ -1,0 +1,16 @@
+{
+  "name": "csscourse-module2",
+  "version": "1.0.0",
+  "description": "landing page for csscourse-module2",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "live-server": "^1.2.2",
+    "sass": "^1.55.0"
+  }
+}
